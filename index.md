@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# React Runner
 
-You can use the [editor on GitHub](https://github.com/DanCAnderson/2d-react/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Use voice commands to get your block to jump over other blocks!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[PLAY THE GAME](https://react-runner.netlify.app/)
 
-### Markdown
+## How Does It Work?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+React Runner uses React to power is graphical interface -- everything is drawn on the screen by JSX
 
-```markdown
-Syntax highlighted code block
+The speech recognition is run by Tensorflow, Google's Machine Learning API
 
-# Header 1
-## Header 2
-### Header 3
+## The Team
 
-- Bulleted
-- List
+### Dan Anderson
 
-1. Numbered
-2. List
+baconator
 
-**Bold** and _Italic_ and `Code` text
+### William Gerard
 
-[Link](url) and ![Image](src)
-```
+baconator
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Nicholas Cage
 
-### Jekyll Themes
+Inspiration
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanCAnderson/2d-react/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Nick Cage](https://pyxis.nymag.com/v1/imgs/cc6/28c/738a35606d5b5b8181d8e3ef11853b04af-26-mandy-nick-cage.rsocial.w1200.jpg)
